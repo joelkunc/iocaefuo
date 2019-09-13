@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yueyaexee.adventureargentina.co.uk/sitemap.xml
